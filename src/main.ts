@@ -1,6 +1,6 @@
 import Vue from "vue";
-import VueI18n from "vue-i18n";
-import App from "./App";
+import * as VueI18n from "vue-i18n";
+import App from "./App.vue";
 
 Vue.config.productionTip = false;
 
